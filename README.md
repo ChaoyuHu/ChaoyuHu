@@ -1,5 +1,5 @@
-👋 Hi, I'm Lucas Hu
-🌱 I’m currently learning LLM
+- 👋 Hi, I'm Lucas Hu
+- 🌱 I’m currently learning LLM
 
 <!--
 **ChaoyuHu/ChaoyuHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
